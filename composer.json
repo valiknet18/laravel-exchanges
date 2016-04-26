@@ -1,0 +1,19 @@
+{
+    "name": "valiknet18/laravel-exchanges",
+    "keywords": ["laravel", "exchanges", "privat24", "cbr", "api"],
+    "authors": [
+        {
+            "name": "Valentyn Hrynevych",
+            "email": "valik.v1per@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Valiknet18\\LaravelExchanges\\": "src/"
+        }
+    }
+}
